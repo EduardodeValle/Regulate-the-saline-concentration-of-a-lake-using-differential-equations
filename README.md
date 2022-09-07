@@ -1,0 +1,2 @@
+# Regulate-the-saline-concentration-of-a-lake-using-differential-equations
+Using data from the Lerma River and the lakes of Chapala and Cuitzeo, operations were made with differential equations to regulate the saline concentration to propitiate the ideal conditions to grow whiteleg shrimp farms. This project is interesting because the calculations were done by hand and MATLAB was used to graph the functions obtained.
